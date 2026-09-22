@@ -1,0 +1,1 @@
+Guess the number is the simple python program . In this I used random function to get random numbers by computer and if elif else statement to find the entered number is same as the random number tha guess by the computer
